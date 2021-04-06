@@ -49,37 +49,37 @@ html {
 }
 
 
-@media screen and (max-width: 650px) {
+
   .column {
     width: 100%;
     display: block;
   }
 
 .header{
-	max-height: 2px!important;
-	margin-bottom: 70px!important;
-	font-size: 14px!important;
+	max-height: 2px !important;
+	margin-bottom: 70px !important;
+	font-size: 14px !important;
 	
 }
 
 .Brandname{
-	 font-family: 'Aldrich';font-size: 22px!important;
+	 font-family: 'Aldrich';font-size: 22px !important;
 }
 
 .carousel{
-	    font-family: 'Aldrich';font-size: 22px!important;
+	    font-family: 'Aldrich';font-size: 22px !important;
 
 }
 .myclass1{
 	background-image: url("../images/andrew-ruiz-cmLUL4La9kI-unsplash.jpg");
-	bakcground-color:black!important;
-	marging: 0px!important;
-	padding: 0px!important;
+	bakcground-color:black !important;
+	marging: 0px !important;
+	padding: 0px !important;
 }
 
 .footer{
-	background-color:black!important;
-	color:aliceblue!important;
+	background-color:black !important;
+	color:aliceblue !important;
 	padding: 40px;
 	
 }
@@ -97,10 +97,10 @@ margin: 0;
 	list-style:none;
 	margin: 0 15px;
 }
-<<<<<<< HEAD
+ HEAD
 
 	.Populartrips{ 
-	backgroud-image: url("../images/andrew-ruiz-cmLUL4La9kI-unsplash.jpg")
+	backgroud-image: url("../images/andrew-ruiz-cmLUL4La9kI-unsplash.jpg");
 	}
 	
 	.Populartrips h3{
@@ -108,6 +108,4 @@ margin: 0;
 	  text-size: 30px;
 	  color:black;
 	font-family: "Lucida Grande";
-=======
-	
->>>>>>> 3f5fe0e8bb927182af31c7d71755782da0a6f888
+	}
