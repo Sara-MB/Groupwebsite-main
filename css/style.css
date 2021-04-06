@@ -78,13 +78,17 @@ html {
 .footer{
 	background-color:black!important;
 	color:aliceblue!important;
+	padding: 40px;
 	
 }
 
 
 .social-media-menu{ 
 display: flex;	
-text-align:center;
+top:50%;
+left:50%;
+padding:0;
+margin: 0;
 }
 
 .social-media-menu ul li{
