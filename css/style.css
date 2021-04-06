@@ -17,7 +17,7 @@
 
 }
 .myclass1{
-	background-image: url( "../images/tom-barrett--bSucp2nUdQ-unsplash.jpg")!important;
+	background-image: url("../images/andrew-ruiz-cmLUL4La9kI-unsplash.jpg");
 	bakcground-color:black!important;
 	marging: 0px!important;
 	padding: 0px!important;
@@ -31,11 +31,11 @@
 
 
 .social-media-menu{ 
-display: flex!important;	
-text-align:center!important;
+display: flex;	
+text-align:center;
 }
 
 .social-media-menu ul li{
-	list-style:none!important;
-	margin: 0 15px!important;
+	list-style:none;
+	margin: 0 15px;
 }
